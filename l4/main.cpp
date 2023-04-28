@@ -6,7 +6,7 @@ int main() {
 
     Matrix<int> m(4, 5);
     
-    // зміна розміру матриці
+    // change matrix size
     m.resize(3, 3);
 
     m(0, 0) = 1;
@@ -46,20 +46,17 @@ int main() {
     //If the matrices are of floating-point type
     //Matrix<double> sub = m / n;
 
-    // Створення матриці рядків
+    // Create string matrix
     Matrix<std::string> stringMatrix(2, 2);
 
-    // Заповнення матриці рядків
     stringMatrix(0, 0) = "abc";
     stringMatrix(0, 1) = "defg";
     stringMatrix(1, 0) = "hijkl";
     stringMatrix(1, 1) = "mno";
 
-    // Виведення матриці рядків у консоль
     std::cout << "String matrix:\n";
     std::cout << stringMatrix << "\n";
 
-    // сортування рядків та стовпців
     n.sort_rows();
     std::cout << "Sorted rows:" << '\n';
     std::cout << n << '\n';
