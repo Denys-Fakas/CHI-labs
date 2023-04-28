@@ -1,0 +1,18 @@
+Analysis results at 2023-04-25 21:18:16:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 20.00 seconds
+
+Analysis results at 2023-04-25 21:18:26:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 25.06 seconds
+
