@@ -1,0 +1,540 @@
+Analysis results at 2023-05-05 20:56:08:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.00 seconds
+
+Analysis results at 2023-05-05 20:56:10:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.00 seconds
+
+Analysis results at 2023-05-05 20:56:12:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.01 seconds
+
+Analysis results at 2023-05-05 20:56:14:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 0.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.00 seconds
+
+Analysis results at 2023-05-05 20:56:15:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 11.03 seconds
+
+Analysis results at 2023-05-05 20:56:19:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.02 seconds
+
+Analysis results at 2023-05-05 20:56:23:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.03 seconds
+
+Analysis results at 2023-05-05 20:56:24:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.02 seconds
+
+Analysis results at 2023-05-05 20:56:25:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.03 seconds
+
+Analysis results at 2023-05-05 20:56:26:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.02 seconds
+
+Analysis results at 2023-05-05 20:56:27:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.02 seconds
+
+Analysis results at 2023-05-05 20:56:52:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.01 seconds
+
+Analysis results at 2023-05-05 20:56:53:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 8.00 seconds
+
+Analysis results at 2023-05-05 20:56:54:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 80.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 4.01 seconds
+
+Analysis results at 2023-05-05 20:57:03:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.01 seconds
+
+Analysis results at 2023-05-05 20:57:04:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.01 seconds
+
+Analysis results at 2023-05-05 20:57:10:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.03 seconds
+
+Analysis results at 2023-05-05 20:57:11:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.02 seconds
+
+Analysis results at 2023-05-05 20:57:17:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 4.99 seconds
+
+Analysis results at 2023-05-05 20:57:18:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 100.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 2.01 seconds
+
+Analysis results at 2023-05-05 20:58:04:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 80.00%
+  High urgency messages: 0.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 4.97 seconds
+
+Analysis results at 2023-05-05 20:58:05:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.00 seconds
+
+Analysis results at 2023-05-05 20:58:07:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.00 seconds
+
+Analysis results at 2023-05-05 20:58:24:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 80.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.02 seconds
+
+Analysis results at 2023-05-05 20:58:36:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.00 seconds
+
+Analysis results at 2023-05-05 20:58:46:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.97 seconds
+
+Analysis results at 2023-05-05 20:58:48:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.98 seconds
+
+Analysis results at 2023-05-05 20:58:54:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.03 seconds
+
+Analysis results at 2023-05-05 20:58:55:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.00 seconds
+
+Analysis results at 2023-05-05 20:58:58:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.03 seconds
+
+Analysis results at 2023-05-05 20:59:15:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.00 seconds
+
+Analysis results at 2023-05-05 20:59:18:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 11.00 seconds
+
+Analysis results at 2023-05-05 20:59:19:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 8.97 seconds
+
+Analysis results at 2023-05-05 20:59:22:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 4.97 seconds
+
+Analysis results at 2023-05-05 20:59:29:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.99 seconds
+
+Analysis results at 2023-05-05 20:59:37:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.00 seconds
+
+Analysis results at 2023-05-05 20:59:38:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 3.95 seconds
+
+Analysis results at 2023-05-05 20:59:41:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.02 seconds
+
+Analysis results at 2023-05-05 20:59:42:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 6.98 seconds
+
+Analysis results at 2023-05-05 20:59:46:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.02 seconds
+
+Analysis results at 2023-05-05 20:59:47:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.00 seconds
+
+Analysis results at 2023-05-05 20:59:49:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 0.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.04 seconds
+
+Analysis results at 2023-05-05 20:59:50:
+Queue size: 3 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 66.67%
+  High urgency messages: 33.33%
+Total queue size: 0.12 KB
+Maximum difference in expiration times: 5.98 seconds
+
+Analysis results at 2023-05-05 20:59:53:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.01 seconds
+
+Analysis results at 2023-05-05 20:59:58:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 4.98 seconds
+
+Analysis results at 2023-05-05 21:00:15:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.00 seconds
+
+Analysis results at 2023-05-05 21:00:19:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.01 seconds
+
+Analysis results at 2023-05-05 21:00:20:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.01 seconds
+
+Analysis results at 2023-05-05 21:00:21:
+Queue size: 4 messages
+Urgency analysis:
+  Low urgency messages: 25.00%
+  Medium urgency messages: 25.00%
+  High urgency messages: 50.00%
+Total queue size: 0.16 KB
+Maximum difference in expiration times: 7.99 seconds
+
+Analysis results at 2023-05-05 21:00:23:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.01 seconds
+
+Analysis results at 2023-05-05 21:00:24:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.00 seconds
+
+Analysis results at 2023-05-05 21:00:25:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 0.00%
+  High urgency messages: 80.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.00 seconds
+
+Analysis results at 2023-05-05 21:00:28:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 10.01 seconds
+
+Analysis results at 2023-05-05 21:00:29:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 60.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 5.00 seconds
+
+Analysis results at 2023-05-05 21:00:32:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.02 seconds
+
+Analysis results at 2023-05-05 21:00:41:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.03 seconds
+
+Analysis results at 2023-05-05 21:00:42:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 60.00%
+  Medium urgency messages: 20.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 8.02 seconds
+
+Analysis results at 2023-05-05 21:00:46:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 40.00%
+  Medium urgency messages: 40.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 7.02 seconds
+
+Analysis results at 2023-05-05 21:00:47:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 0.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 40.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 6.04 seconds
+
+Analysis results at 2023-05-05 21:01:02:
+Queue size: 5 messages
+Urgency analysis:
+  Low urgency messages: 20.00%
+  Medium urgency messages: 60.00%
+  High urgency messages: 20.00%
+Total queue size: 0.20 KB
+Maximum difference in expiration times: 9.07 seconds
+

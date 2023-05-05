@@ -9,7 +9,7 @@ int main() {
         MessageQueue<string> queue(5);
 
         // Create a QueueAnalyzer to periodically analyze the message queue
-        QueueAnalyzer<string> analyzer(queue, "C:/Users/user/Desktop/C++/CHI-labs/Project/queue_analysis.txt");
+        QueueAnalyzer<string> analyzer(queue, "queue_analysis.txt");
 
         // Add messages to the queue
         queue.push(Message<string>(chrono::system_clock::now() + chrono::seconds(5), 1, "High priority message 1"));

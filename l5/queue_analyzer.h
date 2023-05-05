@@ -23,9 +23,9 @@ public:
     void analyze() const {
         std::lock_guard<std::mutex> lock(mutex_);
 
-        std::ofstream outfile("queue_analysis.txt", std::ios::app);
+        std::ofstream outfile(filename_, std::ios::app);
         if (!outfile.is_open()) {
-            std::cerr << "Error: Could not open file " << filename_ << std::endl;
+            std::cerr << "Error: Could not open file " << filename_ << '\n';
             return;
         }
 
@@ -71,7 +71,7 @@ public:
         std::tm timeinfo;
         errno_t err = localtime_s(&timeinfo, &time_t);
         if (err != 0) {
-            // handle error
+            std::cerr << "Finding local time error!!!";
         }
         
         // Write analysis results to file
@@ -86,6 +86,8 @@ public:
 
         outfile << "Total queue size: " << std::fixed << std::setprecision(2) << queue_size_kb << " KB\n";
         outfile << "Maximum difference in expiration times: " << std::fixed << std::setprecision(2) << max_difference.count() << " seconds\n\n";
+        
+        outfile.close();
     }
 
 private:
